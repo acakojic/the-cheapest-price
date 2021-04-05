@@ -1,6 +1,3 @@
-/*
- *
- */
 package com.thechepeastprice.dto;
 
 import lombok.AllArgsConstructor;
