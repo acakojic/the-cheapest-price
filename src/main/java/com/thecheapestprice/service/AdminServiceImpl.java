@@ -22,8 +22,8 @@ public class AdminServiceImpl implements AdminService {
         LOG.debug("Getting admin: {}");
 
         AdminDto adminDto = new AdminDto();
-        adminDto.setId(1);
-        adminDto.setUsername("admin");
+        adminDto.setId(2);
+        adminDto.setUsername("admin02");
         adminDto.setPassword("admin123");
 
         return adminDto;
