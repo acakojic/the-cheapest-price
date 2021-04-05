@@ -9,8 +9,6 @@ import lombok.NoArgsConstructor;
  * Base data transfer object for admin model which groups its id, username, password, and version.
  */
 @Data
-@NoArgsConstructor
-@AllArgsConstructor
 @ApiModel(description = "Admin request and response object.")
 public class AdminDto {
 
