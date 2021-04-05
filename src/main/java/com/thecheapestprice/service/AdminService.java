@@ -5,7 +5,6 @@ import com.thecheapestprice.dto.AdminDto;
 /**
  * Admin Service interface.
  */
-
 public interface AdminService {
 
     /**

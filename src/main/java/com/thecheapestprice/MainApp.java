@@ -9,7 +9,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 public class MainApp extends SpringBootServletInitializer {
 
     /**
-     * The main method for Najcena application.
+     * The main method for TheCheapestPrice application.
      *
      * @param args the arguments
      */
