@@ -1,13 +1,11 @@
-package com.thechepeastprice.http.controller;
+package com.thecheapestprice.http.controller;
 
-import com.thechepeastprice.dto.AdminDto;
-import com.thechepeastprice.http.exceptions.ResourceNotFoundException;
-import com.thechepeastprice.service.AdminService;
+import com.thecheapestprice.dto.AdminDto;
+import com.thecheapestprice.http.exceptions.ResourceNotFoundException;
+import com.thecheapestprice.service.AdminService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RestController;
-
-import javax.validation.Valid;
 
 
 /**

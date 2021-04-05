@@ -1,7 +1,7 @@
 /*
  *
  */
-package com.thechepeastprice.dto;
+package com.thecheapestprice.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

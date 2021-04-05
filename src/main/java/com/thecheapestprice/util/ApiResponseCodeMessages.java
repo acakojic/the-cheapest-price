@@ -1,4 +1,4 @@
-package com.thechepeastprice.util;
+package com.thecheapestprice.util;
 
 
 /**

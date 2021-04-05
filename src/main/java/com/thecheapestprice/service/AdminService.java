@@ -1,6 +1,6 @@
-package com.thechepeastprice.service;
+package com.thecheapestprice.service;
 
-import com.thechepeastprice.dto.AdminDto;
+import com.thecheapestprice.dto.AdminDto;
 
 /**
  * Admin Service interface.

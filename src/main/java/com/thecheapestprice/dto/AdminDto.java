@@ -1,4 +1,4 @@
-package com.thechepeastprice.dto;
+package com.thecheapestprice.dto;
 
 import io.swagger.annotations.ApiModel;
 import lombok.Data;

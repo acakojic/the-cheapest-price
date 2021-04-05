@@ -1,4 +1,4 @@
-package com.thechepeastprice.dto;
+package com.thecheapestprice.dto;
 
 /**
  * For some specific messages where we need more info about error.

@@ -1,9 +1,9 @@
-package com.thechepeastprice.http.controller;
+package com.thecheapestprice.http.controller;
 
-import com.thechepeastprice.dto.AdminDto;
-import com.thechepeastprice.dto.RestError;
-import com.thechepeastprice.util.ApiResponseCodeMessages;
-import com.thechepeastprice.util.AppControllerRoutes;
+import com.thecheapestprice.dto.AdminDto;
+import com.thecheapestprice.dto.RestError;
+import com.thecheapestprice.util.ApiResponseCodeMessages;
+import com.thecheapestprice.util.AppControllerRoutes;
 import io.swagger.annotations.*;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

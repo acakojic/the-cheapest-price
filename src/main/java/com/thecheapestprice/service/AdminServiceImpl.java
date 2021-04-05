@@ -1,6 +1,6 @@
-package com.thechepeastprice.service;
+package com.thecheapestprice.service;
 
-import com.thechepeastprice.dto.AdminDto;
+import com.thecheapestprice.dto.AdminDto;
 import lombok.RequiredArgsConstructor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

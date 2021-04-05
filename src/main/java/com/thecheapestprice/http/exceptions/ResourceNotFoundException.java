@@ -1,6 +1,6 @@
-package com.thechepeastprice.http.exceptions;
+package com.thecheapestprice.http.exceptions;
 
-import com.thechepeastprice.util.ApiResponseCodeMessages;
+import com.thecheapestprice.util.ApiResponseCodeMessages;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
 
